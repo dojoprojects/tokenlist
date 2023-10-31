@@ -2,7 +2,7 @@ import { buildPath } from "../src";
 import { readJSONFile } from "../src/utils/jsonUtils";
 
 describe('test', () => {
-  // https://tokenlist.kurama.app/kurama.json
+  // https://tokenlist.dojoswap.xyz/tomo.json
   test('readJSONFile', async () => {
     const path = buildPath('src/tokens',`kurama-test.json`)
     console.log("path", path);
