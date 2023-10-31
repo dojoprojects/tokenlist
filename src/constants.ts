@@ -1,8 +1,8 @@
 export const LISTS = {
-  "kurama": {
-    name: "Kurama",
-    keywords: ["kurama", "default"],
-    logoURI: "https://kurama-token.netlify.app/images/kurama/0x5c1fe01d69d2657455b6d4ae61500f2f42353e10.png",
+  "tomo": {
+    name: "tomo",
+    keywords: ["tomo", "default"],
+    logoURI: "https://dojo-token.netlify.app/images/tomo/0xB1f66997A5760428D3a87D68b90BfE0aE64121cC.png",
     sort: false,
   },
 } as const;

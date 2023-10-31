@@ -1,0 +1,62 @@
+{
+  "name": "tomo",
+  "timestamp": "2023-10-31T02:35:14.343Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "logoURI": "https://dojo-token.netlify.app/images/tomo/0xB1f66997A5760428D3a87D68b90BfE0aE64121cC.png",
+  "keywords": [
+    "tomo",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "TomoChain",
+      "symbol": "TOMO",
+      "id": "0xB1f66997A5760428D3a87D68b90BfE0aE64121cC",
+      "chainId": 88,
+      "decimals": 18,
+      "logoURI": "https://dojo-token.netlify.app/images/tomo/0xB1f66997A5760428D3a87D68b90BfE0aE64121cC.png",
+      "isNative": true,
+      "labels": [],
+      "wrapId": "0xB1f66997A5760428D3a87D68b90BfE0aE64121cC"
+    },
+    {
+      "name": "Wrapped TOMO",
+      "symbol": "WTOMO",
+      "id": "0xB1f66997A5760428D3a87D68b90BfE0aE64121cC",
+      "wrapId": "0x0000000000000000000000000000000000000001",
+      "chainId": 88,
+      "decimals": 18,
+      "logoURI": "https://dojo-token.netlify.app/images/tomo/0x0000000000000000000000000000000000000001.png",
+      "isNative": false,
+      "labels": []
+    },
+    {
+      "name": "Coin98",
+      "symbol": "C98",
+      "id": "0x0Fd0288AAAE91eaF935e2eC14b23486f86516c8C",
+      "chainId": 88,
+      "decimals": 18,
+      "logoURI": "https://dojo-token.netlify.app/images/tomo/0x0Fd0288AAAE91eaF935e2eC14b23486f86516c8C.png",
+      "isNative": false,
+      "labels": [],
+      "wrapId": "0x0Fd0288AAAE91eaF935e2eC14b23486f86516c8C"
+    },
+    {
+      "name": "Coin98 Dollar",
+      "symbol": "CUSD",
+      "id": "0xb3008E7156Ae2312b49B5200C3E1C3e80E529feb",
+      "chainId": 88,
+      "decimals": 6,
+      "logoURI": "https://dojo-token.netlify.app/images/tomo/0xb3008E7156Ae2312b49B5200C3E1C3e80E529feb.png",
+      "isNative": false,
+      "labels": [
+        "Stablecoins"
+      ],
+      "wrapId": "0xb3008E7156Ae2312b49B5200C3E1C3e80E529feb"
+    }
+  ]
+}
