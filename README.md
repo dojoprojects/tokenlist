@@ -1,4 +1,4 @@
-# Update Project and Automatically Deploy to Netlify
+# Update Token and Automatically Deploy to Netlify
 
 1. **Add Token Configuration and Icon:**
 
