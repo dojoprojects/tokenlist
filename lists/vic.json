@@ -1,10 +1,10 @@
 {
   "name": "vic",
-  "timestamp": "2023-11-30T07:04:58.727Z",
+  "timestamp": "2023-11-30T07:06:35.587Z",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 6
+    "patch": 7
   },
   "logoURI": "https://tokenlist.dojoswap.xyz/images/0xC054751BdBD24Ae713BA3Dc9Bd9434aBe2abc1ce.png",
   "keywords": [
@@ -27,7 +27,7 @@
     {
       "name": "Wrapped VICTION",
       "symbol": "WVIC",
-      "id": "0xB1f66997A5760428D3a87D68b90BfE0aE64121cC",
+      "id": "0xC054751BdBD24Ae713BA3Dc9Bd9434aBe2abc1ce",
       "wrapId": "0x0000000000000000000000000000000000000001",
       "chainId": 88,
       "decimals": 18,
