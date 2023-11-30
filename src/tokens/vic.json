@@ -7,7 +7,7 @@
     "decimals": 18,
     "logoURI": "https://tokenlist.dojoswap.xyz/images/0xC054751BdBD24Ae713BA3Dc9Bd9434aBe2abc1ce.png",
     "isNative": true,
-    "type": "vrc20",
+    "type": "vrc25",
     "labels": []
   },
   {
@@ -19,7 +19,7 @@
     "decimals": 18,
     "logoURI": "https://tokenlist.dojoswap.xyz/images/0x0000000000000000000000000000000000000001.png",
     "isNative": false,
-    "type": "vrc20",
+    "type": "vrc25",
     "labels": []
   },
   {
