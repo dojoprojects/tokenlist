@@ -5,7 +5,7 @@
     "id": "0xC054751BdBD24Ae713BA3Dc9Bd9434aBe2abc1ce",
     "chainId": 88,
     "decimals": 18,
-    "logoURI": "https://dojo-token.netlify.app/images/tomo/0xC054751BdBD24Ae713BA3Dc9Bd9434aBe2abc1ce.png",
+    "logoURI": "https://tokenlist.dojoswap.xyz/images/0xC054751BdBD24Ae713BA3Dc9Bd9434aBe2abc1ce.png",
     "isNative": true,
     "type": "vrc20",
     "labels": []
@@ -17,7 +17,7 @@
     "wrapId": "0x0000000000000000000000000000000000000001",
     "chainId": 88,
     "decimals": 18,
-    "logoURI": "https://dojo-token.netlify.app/images/tomo/0x0000000000000000000000000000000000000001.png",
+    "logoURI": "https://tokenlist.dojoswap.xyz/images/0x0000000000000000000000000000000000000001.png",
     "isNative": false,
     "type": "vrc20",
     "labels": []
@@ -28,7 +28,7 @@
     "id": "0x0Fd0288AAAE91eaF935e2eC14b23486f86516c8C",
     "chainId": 88,
     "decimals": 18,
-    "logoURI": "https://dojo-token.netlify.app/images/tomo/0x0Fd0288AAAE91eaF935e2eC14b23486f86516c8C.png",
+    "logoURI": "https://tokenlist.dojoswap.xyz/images/0x0Fd0288AAAE91eaF935e2eC14b23486f86516c8C.png",
     "isNative": false,
     "type": "vrc25",
     "labels": []
@@ -39,7 +39,7 @@
     "id": "0xb3008E7156Ae2312b49B5200C3E1C3e80E529feb",
     "chainId": 88,
     "decimals": 6,
-    "logoURI": "https://dojo-token.netlify.app/images/tomo/0xb3008E7156Ae2312b49B5200C3E1C3e80E529feb.png",
+    "logoURI": "https://tokenlist.dojoswap.xyz/images/0xb3008E7156Ae2312b49B5200C3E1C3e80E529feb.png",
     "isNative": false,
     "type": "vrc25",
     "labels": [
