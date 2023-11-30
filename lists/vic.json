@@ -1,10 +1,10 @@
 {
   "name": "vic",
-  "timestamp": "2023-11-30T07:06:35.587Z",
+  "timestamp": "2023-11-30T07:27:43.775Z",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 7
+    "patch": 8
   },
   "logoURI": "https://tokenlist.dojoswap.xyz/images/0xC054751BdBD24Ae713BA3Dc9Bd9434aBe2abc1ce.png",
   "keywords": [
@@ -20,7 +20,7 @@
       "decimals": 18,
       "logoURI": "https://tokenlist.dojoswap.xyz/images/0xC054751BdBD24Ae713BA3Dc9Bd9434aBe2abc1ce.png",
       "isNative": true,
-      "type": "vrc20",
+      "type": "vrc25",
       "labels": [],
       "wrapId": "0xC054751BdBD24Ae713BA3Dc9Bd9434aBe2abc1ce"
     },
@@ -33,7 +33,7 @@
       "decimals": 18,
       "logoURI": "https://tokenlist.dojoswap.xyz/images/0x0000000000000000000000000000000000000001.png",
       "isNative": false,
-      "type": "vrc20",
+      "type": "vrc25",
       "labels": []
     },
     {
