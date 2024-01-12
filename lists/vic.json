@@ -1,10 +1,10 @@
 {
   "name": "vic",
-  "timestamp": "2023-11-30T07:27:43.775Z",
+  "timestamp": "2024-01-12T10:12:12.586Z",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 8
+    "patch": 9
   },
   "logoURI": "https://tokenlist.dojoswap.xyz/images/0xC054751BdBD24Ae713BA3Dc9Bd9434aBe2abc1ce.png",
   "keywords": [
@@ -61,6 +61,48 @@
         "Stablecoins"
       ],
       "wrapId": "0xb3008E7156Ae2312b49B5200C3E1C3e80E529feb"
+    },
+    {
+      "name": "Bridged USDT (Arken)",
+      "symbol": "USDT",
+      "id": "0xBBbfAB9DcC27771d21D027F37f36B67cc4A25db0",
+      "chainId": 88,
+      "decimals": 18,
+      "logoURI": "https://tokenlist.dojoswap.xyz/images/0xBBbfAB9DcC27771d21D027F37f36B67cc4A25db0.png",
+      "isNative": false,
+      "type": "vrc25",
+      "labels": [
+        "Stablecoins"
+      ],
+      "wrapId": "0xBBbfAB9DcC27771d21D027F37f36B67cc4A25db0"
+    },
+    {
+      "name": "Bridged USDC (Arken)",
+      "symbol": "USDC",
+      "id": "0x20cC4574f263C54eb7aD630c9AC6d4d9068Cf127",
+      "chainId": 88,
+      "decimals": 6,
+      "logoURI": "https://tokenlist.dojoswap.xyz/images/0x20cC4574f263C54eb7aD630c9AC6d4d9068Cf127.png",
+      "isNative": false,
+      "type": "vrc20",
+      "labels": [
+        "Stablecoins"
+      ],
+      "wrapId": "0x20cC4574f263C54eb7aD630c9AC6d4d9068Cf127"
+    },
+    {
+      "name": "USDV",
+      "symbol": "USDV",
+      "id": "0x323665443CEf804A3b5206103304BD4872EA4253",
+      "chainId": 88,
+      "decimals": 6,
+      "logoURI": "https://tokenlist.dojoswap.xyz/images/0x323665443CEf804A3b5206103304BD4872EA4253.png",
+      "isNative": false,
+      "type": "vrc20",
+      "labels": [
+        "Stablecoins"
+      ],
+      "wrapId": "0x323665443CEf804A3b5206103304BD4872EA4253"
     }
   ]
 }

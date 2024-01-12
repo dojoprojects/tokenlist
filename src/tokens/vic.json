@@ -45,5 +45,47 @@
     "labels": [
       "Stablecoins"
     ]
+  },
+
+  {
+    "name": "Bridged USDT (Arken)",
+    "symbol": "USDT",
+    "id": "0xBBbfAB9DcC27771d21D027F37f36B67cc4A25db0",
+    "chainId": 88,
+    "decimals": 18,
+    "logoURI": "https://tokenlist.dojoswap.xyz/images/0xBBbfAB9DcC27771d21D027F37f36B67cc4A25db0.png",
+    "isNative": false,
+    "type": "vrc25",
+    "labels": [
+      "Stablecoins"
+    ]
+  },
+
+  {
+    "name": "Bridged USDC (Arken)",
+    "symbol": "USDC",
+    "id": "0x20cC4574f263C54eb7aD630c9AC6d4d9068Cf127",
+    "chainId": 88,
+    "decimals": 6,
+    "logoURI": "https://tokenlist.dojoswap.xyz/images/0x20cC4574f263C54eb7aD630c9AC6d4d9068Cf127.png",
+    "isNative": false,
+    "type": "vrc20",
+    "labels": [
+      "Stablecoins"
+    ]
+  },
+
+  {
+    "name": "USDV",
+    "symbol": "USDV",
+    "id": "0x323665443CEf804A3b5206103304BD4872EA4253",
+    "chainId": 88,
+    "decimals": 6,
+    "logoURI": "https://tokenlist.dojoswap.xyz/images/0x323665443CEf804A3b5206103304BD4872EA4253.png",
+    "isNative": false,
+    "type": "vrc20",
+    "labels": [
+      "Stablecoins"
+    ]
   }
 ]
