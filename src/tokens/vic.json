@@ -87,5 +87,29 @@
     "labels": [
       "Stablecoins"
     ]
+  },
+
+  {
+    "name": "Arken Token",
+    "symbol": "ARKEN",
+    "id": "0x8998F9289757b7E0D3eA77581bb7D4630b4158bB",
+    "chainId": 88,
+    "decimals": 18,
+    "logoURI": "https://tokenlist.dojoswap.xyz/images/0x8998F9289757b7E0D3eA77581bb7D4630b4158bB.png",
+    "isNative": false,
+    "type": "vrc25",
+    "labels": []
+  },
+
+  {
+    "name": "Bridged WETH (Arken)",
+    "symbol": "WETH",
+    "id": "0x9EDe19edE2baf93d25FBA4C8F58577E008b8F963",
+    "chainId": 88,
+    "decimals": 18,
+    "logoURI": "https://tokenlist.dojoswap.xyz/images/0x9EDe19edE2baf93d25FBA4C8F58577E008b8F963.png",
+    "isNative": false,
+    "type": "vrc25",
+    "labels": []
   }
 ]

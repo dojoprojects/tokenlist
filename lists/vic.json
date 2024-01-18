@@ -1,10 +1,10 @@
 {
   "name": "vic",
-  "timestamp": "2024-01-12T10:12:12.586Z",
+  "timestamp": "2024-01-18T12:47:58.228Z",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 9
+    "patch": 10
   },
   "logoURI": "https://tokenlist.dojoswap.xyz/images/0xC054751BdBD24Ae713BA3Dc9Bd9434aBe2abc1ce.png",
   "keywords": [
@@ -103,6 +103,30 @@
         "Stablecoins"
       ],
       "wrapId": "0x323665443CEf804A3b5206103304BD4872EA4253"
+    },
+    {
+      "name": "Arken Token",
+      "symbol": "ARKEN",
+      "id": "0x8998F9289757b7E0D3eA77581bb7D4630b4158bB",
+      "chainId": 88,
+      "decimals": 18,
+      "logoURI": "https://tokenlist.dojoswap.xyz/images/0x8998F9289757b7E0D3eA77581bb7D4630b4158bB.png",
+      "isNative": false,
+      "type": "vrc25",
+      "labels": [],
+      "wrapId": "0x8998F9289757b7E0D3eA77581bb7D4630b4158bB"
+    },
+    {
+      "name": "Bridged WETH (Arken)",
+      "symbol": "WETH",
+      "id": "0x9EDe19edE2baf93d25FBA4C8F58577E008b8F963",
+      "chainId": 88,
+      "decimals": 18,
+      "logoURI": "https://tokenlist.dojoswap.xyz/images/0x9EDe19edE2baf93d25FBA4C8F58577E008b8F963.png",
+      "isNative": false,
+      "type": "vrc25",
+      "labels": [],
+      "wrapId": "0x9EDe19edE2baf93d25FBA4C8F58577E008b8F963"
     }
   ]
 }
