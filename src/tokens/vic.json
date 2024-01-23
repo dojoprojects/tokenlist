@@ -113,8 +113,8 @@
     "labels": []
   },
   {
-    "name": "SAROS",
-    "symbol": "Saros",
+    "name": "Saros",
+    "symbol": "SAROS",
     "id": "0xB786D9c8120D311b948cF1e5Aa48D8fBacf477E2",
     "chainId": 88,
     "decimals": 18,
