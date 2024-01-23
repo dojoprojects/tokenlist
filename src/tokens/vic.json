@@ -111,5 +111,16 @@
     "isNative": false,
     "type": "vrc25",
     "labels": []
+  },
+  {
+    "name": "SAROS",
+    "symbol": "Saros",
+    "id": "0xB786D9c8120D311b948cF1e5Aa48D8fBacf477E2",
+    "chainId": 88,
+    "decimals": 18,
+    "logoURI": "https://tokenlist.dojoswap.xyz/images/0xB786D9c8120D311b948cF1e5Aa48D8fBacf477E2.png",
+    "isNative": false,
+    "type": "vrc25",
+    "labels": []
   }
 ]
